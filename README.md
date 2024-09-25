@@ -1,5 +1,1 @@
-# project2-example
-
-This is an example you can use as a stsrting point for your own game. This indluces "main.rb" which is the entry point to the application. You should have as little code in here as possible.
-
-To run the application, run "ruby main.rb"# cse3901_project1
+This is a text_based card game in which players attempt to find a group of cards that satisfy a particular criterion. Its name is "Set" and it's implemented in Ruby.
